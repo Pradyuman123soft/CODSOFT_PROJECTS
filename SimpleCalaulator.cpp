@@ -38,4 +38,5 @@ int main()
         cout << "You Have Entered a Wrong Option";
         break;
     }
+    return 0;
 }
