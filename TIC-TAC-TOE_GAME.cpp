@@ -64,7 +64,7 @@ bool checkDraw()
     {
         for (int j = 0; j < size; j++)
         {
-            if (board[i][i] == ' ')
+            if (board[i][j] == ' ')
             {
                 return false;
             }
